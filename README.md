@@ -1,2 +1,5 @@
 ## End to end regression project with Deployment
-- it is an end to end project
+### Approches of the project
+1. Data ingestion
+   -importing the csv file, then split the data in training and test dataset
+2. 
