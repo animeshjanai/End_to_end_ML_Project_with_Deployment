@@ -1,1 +1,2 @@
-## End to end Machine Learning project with Deployment
+## End to end regression project with Deployment
+- it is an end to end project
