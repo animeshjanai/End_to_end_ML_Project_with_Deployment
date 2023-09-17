@@ -18,3 +18,4 @@
 - Web Framework: Flask
 - Deployment: AWS cloud
 ## Screenshot of the app deployment
+![AWS](https://github.com/animeshjanai/End_to_end_ML_Project_with_Deployment/assets/61791442/5264f23b-0ea6-47db-b059-45052d3ef10d)
