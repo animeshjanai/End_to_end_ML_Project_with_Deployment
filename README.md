@@ -1,4 +1,4 @@
-## End-to-End Regression Project with Flask Web App
+## End-to-End Regression Project with Flask Web App and deployment in AWS cloud using CI/CD pipelines
 ### Project Description:
 - Successfully initiated the project on GitHub, ensuring efficient version control.
 - Developed a structured project setup, including setup.py and requirements.txt files, for seamless deployment and reproducibility.
@@ -10,8 +10,11 @@
 - Created the Model Trainer and Model Evaluating components, facilitating model development and evaluation.
 - Conducted Model Hyperparameter Tuning using GridSearchCV for optimizing model performance.
 - Designed a prediction pipeline integrated into a Flask web application for user-friendly predictions.
+- Deployment of the ML application in AWS cloud using CI/CD pipelines
 ### Technologies/Tools Used:
 - Development Environment: Visual Studio Code (VS Code)
 - Programming Languages: Python
 - Version Control: Git and GitHub
 - Web Framework: Flask
+- Deployment: AWS cloud
+## Screenshot of the app deployment
